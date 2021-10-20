@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+}
+
+.card{
+    margin-left: 50px;
+}
+
+.active {
+    border-left: 10px solid #f72585;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 20px;
+}
+
+.recovry {
+    border-left: 10px solid #3a0c45;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 20px;
+}
+
+.deaths {
+    border-left: 10px solid #4cc9f0;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 20px;
+}
